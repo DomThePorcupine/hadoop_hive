@@ -1,4 +1,0 @@
-hadoop_main:
-  build: .
-  volumes:
-    - ./src/:/hadoop/projects
